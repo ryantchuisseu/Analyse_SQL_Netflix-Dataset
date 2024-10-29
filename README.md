@@ -7,6 +7,9 @@ pyhon, SQL
 
 
 ## Projet SQL : Analyse du Dataset Netflix Movies and TV Shows
+
+
+
 # Description
 Ce projet présente une série d'exemples de syntaxe SQL en utilisant le dataset Netflix Movies and TV Shows, composé de 8809 lignes. 
 L'objectif est de démontrer l'utilisation de concepts SQL clés, tels que les mots-clés SQL, le filtrage de données, les jointures, les unions, les fonctions d'agrégation, les tables temporaires, et les fonctions de fenêtre.
