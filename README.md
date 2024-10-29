@@ -107,3 +107,13 @@ Ce projet explore plusieurs aspects de SQL, avec des exemples de requêtes dans 
 **Fonctions de fenêtre** : Utilisation de fonctions de fenêtre (ROW_NUMBER(), LAG, LEAD, etc.) pour effectuer des calculs basés sur des groupes de lignes.
 
 
+# **Utilisation**
+
+1. **Téléchargez** le dataset ici _Kaggle_.
+
+2. **Utilisez python** pour travailler dans un environnement SQL compatible.
+
+3. **Exécutez** les requêtes SQL fournies dans ce projet pour explorer les différentes fonctionnalités de SQL.
+
+4. **Modifiez** et **expérimentez** les requêtes pour répondre à vos propres questions sur les données.
+
