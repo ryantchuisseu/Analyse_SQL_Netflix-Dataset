@@ -38,6 +38,12 @@ La base de données _Netflix_ contient les colonnes suivantes :
 - **rating** : Classification du contenu (_ex. PG-13, R, etc._).
 
 ### **Requêtes et Explications**
+1. **Question 1**
+   _Afficher les 5 premiers éléments du tableau_
+![1ère question](https://github.com/user-attachments/assets/53eba979-17bd-4f0b-b0b9-885c6416903d)
+<img src="https://github.com/user-attachments/assets/53eba979-17bd-4f0b-b0b9-885c6416903d" alt="Description de l'image" width="300">
+
+   
 
 1. **Question 2**  
    _Quelles sont les valeurs distinctes de l'identifiant de contenu (`show_id`) dans la base de données Netflix ?_
