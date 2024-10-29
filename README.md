@@ -1,4 +1,7 @@
 # Analyse_SQL_Netflix-Dataset
+ 
+Nous voulons travailler avec des données sous forme de DataFrame, mais que nous souhaitons également effectuer des opérations SQL sur ces données. Cela nous permet de tirer parti des fonctionnalités de pandas tout en utilisant SQL pour des requêtes complexes.
+
 
 ## Projet SQL : Analyse du Dataset Netflix Movies and TV Shows
 # Description
