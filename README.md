@@ -193,9 +193,9 @@ Ce projet explore plusieurs aspects de SQL, avec des exemples de requêtes dans 
 
 # **Utilisation**
 
-1. **Téléchargez** le dataset ici _Kaggle_.
+1. **Téléchargez** le dataset ici [_Kaggle_](https://github.com/ryantchuisseu/Analyse_SQL_Netflix-Dataset/blob/main/netflix_titles.csv).
 
-2. **Utilisez python** pour travailler dans un environnement SQL compatible.
+2. **Utilisez GOOGLE COLAB** pour travailler dans un environnement SQL compatible.
 
 3. **Exécutez** les requêtes SQL fournies dans ce projet pour explorer les différentes fonctionnalités de SQL.
 
